@@ -1,0 +1,10 @@
+.map-content-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #8df80b; 
+    border: 1px solid #000000; 
+    border-radius: 8px; 
+  }
